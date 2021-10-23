@@ -1,0 +1,85 @@
+{"timestamp":"2021-10-21 17:48:12.8200","service":"udp_server","level":"info","message":"Server is listening at port 2082"}
+{"timestamp":"2021-10-21 17:48:12.8260","service":"udp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2021-10-21 17:48:12.8260","service":"udp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2021-10-21 17:48:37.8730","service":"udp_server","level":"info","message":"MSG from UDP client | Received 19 bytes from 127.0.0.1:65083"}
+{"timestamp":"2021-10-21 17:48:37.8750","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2021-10-21 17:48:37.8760","service":"udp_server","level":"info","message":"helloworld | Received 10 bytes from 127.0.0.1:65083"}
+{"timestamp":"2021-10-21 17:48:37.8760","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2021-10-21 17:49:08.0810","service":"udp_server","level":"info","message":"MSG from UDP client | Received 19 bytes from 127.0.0.1:55124"}
+{"timestamp":"2021-10-21 17:49:08.0830","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2021-10-21 17:49:08.0830","service":"udp_server","level":"info","message":"helloworld | Received 10 bytes from 127.0.0.1:55124"}
+{"timestamp":"2021-10-21 17:49:08.0840","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2021-10-21 18:07:44.6330","service":"udp_server","level":"info","message":"Server is listening at port 5001"}
+{"timestamp":"2021-10-21 18:07:44.6390","service":"udp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2021-10-21 18:07:44.6390","service":"udp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2021-10-21 18:07:47.3660","service":"udp_server","level":"info","message":"MSG from UDP client | Received 19 bytes from 127.0.0.1:62554"}
+{"timestamp":"2021-10-21 18:07:47.3680","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2021-10-21 18:07:47.3690","service":"udp_server","level":"info","message":"helloworld | Received 10 bytes from 127.0.0.1:62554"}
+{"timestamp":"2021-10-21 18:07:47.3700","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2021-10-21 18:31:24.4390","service":"udp_server","level":"info","message":"Server is listening at port 5001"}
+{"timestamp":"2021-10-21 18:31:24.4450","service":"udp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2021-10-21 18:31:24.4450","service":"udp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2021-10-21 18:32:46.1500","service":"udp_server","level":"info","message":"Server is listening at port 5001"}
+{"timestamp":"2021-10-21 18:32:46.1550","service":"udp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2021-10-21 18:32:46.1560","service":"udp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2021-10-21 18:34:35.2050","service":"udp_server","level":"info","message":"Server is listening at port 5001"}
+{"timestamp":"2021-10-21 18:34:35.2090","service":"udp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2021-10-21 18:34:35.2100","service":"udp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2021-10-21 18:35:49.6490","service":"udp_server","level":"info","message":"Server is listening at port 5001"}
+{"timestamp":"2021-10-21 18:35:49.6540","service":"udp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2021-10-21 18:35:49.6540","service":"udp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2021-10-21 18:37:54.0350","service":"udp_server","level":"error","message":{"errno":-49,"code":"EADDRNOTAVAIL","syscall":"bind","address":"118.99.109.81","port":5001}}
+{"timestamp":"2021-10-21 18:37:54.0430","service":"udp_server","level":"info","message":"Socket is closed !"}
+{"timestamp":"2021-10-21 18:39:49.4720","service":"udp_server","level":"error","message":{"errno":-49,"code":"EADDRNOTAVAIL","syscall":"bind","address":"118.99.109.81","port":5001}}
+{"timestamp":"2021-10-21 18:39:49.4830","service":"udp_server","level":"info","message":"Socket is closed !"}
+{"timestamp":"2021-10-21 18:40:44.2240","service":"udp_server","level":"info","message":"Server is listening at port 5001"}
+{"timestamp":"2021-10-21 18:40:44.2300","service":"udp_server","level":"info","message":"Server ip :127.0.0.1"}
+{"timestamp":"2021-10-21 18:40:44.2300","service":"udp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2021-10-21 18:45:48.3540","service":"udp_server","level":"info","message":"MSG from UDP client | Received 19 bytes from 127.0.0.1:52060"}
+{"timestamp":"2021-10-21 18:45:48.3570","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2021-10-21 18:45:48.3580","service":"udp_server","level":"info","message":"helloworld | Received 10 bytes from 127.0.0.1:52060"}
+{"timestamp":"2021-10-21 18:45:48.3590","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2021-10-21 18:47:27.3310","service":"udp_server","level":"error","message":{"errno":-49,"code":"EADDRNOTAVAIL","syscall":"bind","address":"118.99.109.81","port":5001}}
+{"timestamp":"2021-10-21 18:47:27.3380","service":"udp_server","level":"info","message":"Socket is closed !"}
+{"timestamp":"2021-10-21 18:50:41.7510","service":"udp_server","level":"error","message":{"errno":-49,"code":"EADDRNOTAVAIL","syscall":"bind","address":"118.99.109.81","port":5001}}
+{"timestamp":"2021-10-21 18:50:41.7590","service":"udp_server","level":"info","message":"Socket is closed !"}
+{"timestamp":"2021-10-21 18:51:45.6330","service":"udp_server","level":"info","message":"Server is listening at port 5001"}
+{"timestamp":"2021-10-21 18:51:45.6410","service":"udp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2021-10-21 18:51:45.6410","service":"udp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2021-10-21 18:51:49.1550","service":"udp_server","level":"info","message":"MSG from UDP client | Received 19 bytes from 118.99.109.81:50740"}
+{"timestamp":"2021-10-21 18:51:49.1590","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2021-10-21 18:51:49.1600","service":"udp_server","level":"info","message":"helloworld | Received 10 bytes from 118.99.109.81:50740"}
+{"timestamp":"2021-10-21 18:51:49.1600","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2021-10-21 18:52:02.4450","service":"udp_server","level":"info","message":"helloworld | Received 10 bytes from 103.158.96.58:54992"}
+{"timestamp":"2021-10-21 18:52:02.4470","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2021-10-21 18:52:02.4650","service":"udp_server","level":"info","message":"MSG from UDP client | Received 19 bytes from 103.158.96.58:54992"}
+{"timestamp":"2021-10-21 18:52:02.4660","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2021-10-21 18:54:56.3010","service":"udp_server","level":"info","message":"Server is listening at port 5001"}
+{"timestamp":"2021-10-21 18:54:56.3060","service":"udp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2021-10-21 18:54:56.3070","service":"udp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2021-10-21 18:55:01.5200","service":"udp_server","level":"info","message":"Peasn Dari Rumah | Received 16 bytes from 118.99.109.81:53820"}
+{"timestamp":"2021-10-21 18:55:01.5240","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2021-10-21 18:55:19.6940","service":"udp_server","level":"info","message":"PESAN DARI SERVER SEKOLAH | Received 25 bytes from 103.158.96.58:41677"}
+{"timestamp":"2021-10-21 18:55:19.6960","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2021-10-21 18:57:04.0790","service":"udp_server","level":"info","message":"PESAN DARI SERVER SEKOLAH | Received 25 bytes from 103.158.96.58:49347"}
+{"timestamp":"2021-10-21 18:57:04.0800","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2021-10-21 18:57:07.5430","service":"udp_server","level":"info","message":"Peasn Dari Rumah | Received 16 bytes from 118.99.109.81:57927"}
+{"timestamp":"2021-10-21 18:57:07.5440","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2021-10-21 18:58:33.0990","service":"udp_server","level":"info","message":"Peasn Dari Rumah | Received 16 bytes from 118.99.109.81:64147"}
+{"timestamp":"2021-10-21 18:58:33.1000","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2021-10-21 18:58:46.6830","service":"udp_server","level":"info","message":"Server is listening at port 5001"}
+{"timestamp":"2021-10-21 18:58:46.6880","service":"udp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2021-10-21 18:58:46.6880","service":"udp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2021-10-21 18:58:55.0730","service":"udp_server","level":"info","message":"PESAN DARI SERVER SEKOLAH | Received 25 bytes from 103.158.96.58:43939"}
+{"timestamp":"2021-10-21 18:58:55.0760","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2021-10-21 18:59:26.8700","service":"udp_server","level":"info","message":"Server is listening at port 5001"}
+{"timestamp":"2021-10-21 18:59:26.8760","service":"udp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2021-10-21 18:59:26.8760","service":"udp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2021-10-21 18:59:33.1230","service":"udp_server","level":"info","message":"Peasn Dari Rumah | Received 16 bytes from 118.99.109.81:61455"}
+{"timestamp":"2021-10-21 18:59:42.8300","service":"udp_server","level":"info","message":"Server is listening at port 5001"}
+{"timestamp":"2021-10-21 18:59:42.8350","service":"udp_server","level":"info","message":"Server ip :0.0.0.0"}
+{"timestamp":"2021-10-21 18:59:42.8360","service":"udp_server","level":"info","message":"Server is IP4/IP6 : IPv4"}
+{"timestamp":"2021-10-21 18:59:46.9900","service":"udp_server","level":"info","message":"PESAN DARI SERVER SEKOLAH | Received 25 bytes from 103.158.96.58:34277"}
+{"timestamp":"2021-10-21 18:59:46.9920","service":"udp_server","level":"info","message":"Data sent !!!"}
+{"timestamp":"2021-10-21 18:59:50.3100","service":"udp_server","level":"info","message":"Peasn Dari Rumah | Received 16 bytes from 118.99.109.81:56697"}
+{"timestamp":"2021-10-21 18:59:50.3110","service":"udp_server","level":"info","message":"Data sent !!!"}

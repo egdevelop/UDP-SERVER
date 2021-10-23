@@ -1,0 +1,6 @@
+{
+    "serverHost": "118.99.109.81",
+    "port": 5001,
+    "timeout": 10000,
+    "logdir": "log/server/"
+}

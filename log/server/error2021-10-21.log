@@ -1,0 +1,4 @@
+{"timestamp":"2021-10-21 18:37:54.0350","service":"udp_server","level":"error","message":{"errno":-49,"code":"EADDRNOTAVAIL","syscall":"bind","address":"118.99.109.81","port":5001}}
+{"timestamp":"2021-10-21 18:39:49.4720","service":"udp_server","level":"error","message":{"errno":-49,"code":"EADDRNOTAVAIL","syscall":"bind","address":"118.99.109.81","port":5001}}
+{"timestamp":"2021-10-21 18:47:27.3310","service":"udp_server","level":"error","message":{"errno":-49,"code":"EADDRNOTAVAIL","syscall":"bind","address":"118.99.109.81","port":5001}}
+{"timestamp":"2021-10-21 18:50:41.7510","service":"udp_server","level":"error","message":{"errno":-49,"code":"EADDRNOTAVAIL","syscall":"bind","address":"118.99.109.81","port":5001}}
